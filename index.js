@@ -316,7 +316,6 @@ async function saveMessageSettings() {
   }
 }
 
-// Start the campaign
 async function startCampaign() {
   try {
     // First check if WhatsApp is connected
